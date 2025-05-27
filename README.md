@@ -4,7 +4,7 @@
 I’m excited to share my complete Restaurant Review Analysis project, completed as part of my Data Analyst Internship at Cognifyz Technologies. This project was conducted in two phases—Level 1 (Data Preparation & Basic Analysis) and Level 2 (Deep-Dive Analysis & Visualization)—to apply real-world skills in data cleaning, analysis, and insight generation.
 
 
-## 🛠️ Tools & Technologies Used
+# 🛠️ Tools & Technologies Used
 • Excel – Data Cleaning & Preprocessing
 
 • Python (Pandas) – Data Analysis & Aggregations
@@ -12,7 +12,7 @@ I’m excited to share my complete Restaurant Review Analysis project, completed
 • Matplotlib – Data Visualization
 
 
-## 📌 Project Overview
+# 📌 Project Overview
 ◆ Level 1: Foundation & Cleaning
 
 • In this stage, I focused on preparing raw restaurant data for analysis:
@@ -24,7 +24,7 @@ I’m excited to share my complete Restaurant Review Analysis project, completed
 • Structured the data for better readability and analysis in later stages.
 
 
-## ◆ Level 2: In-Depth Analysis & Visualization
+# ◆ Level 2: In-Depth Analysis & Visualization
 
 • This phase involved deeper exploration and insight generation using Python:
 
@@ -37,7 +37,7 @@ I’m excited to share my complete Restaurant Review Analysis project, completed
 • Created custom plots using Matplotlib for storytelling with data.
 
 
-### 📊 Key Insights Derived
+# 📊 Key Insights Derived
 
 • Cities with the highest number of multi-cuisine restaurants.
 
@@ -48,7 +48,7 @@ I’m excited to share my complete Restaurant Review Analysis project, completed
 • Price vs. rating patterns and delivery behavior trends.
 
 
-### 🎯 What I Learned
+# 🎯 What I Learned
 
 • How to apply Excel for structured data cleaning in real scenarios.
 
@@ -59,6 +59,6 @@ I’m excited to share my complete Restaurant Review Analysis project, completed
 • The importance of organizing data workflows for better collaboration and communication.
 
 
-### 🙏 Acknowledgement
+# 🙏 Acknowledgement
 
 Big thanks to Cognifyz Technologies for this opportunity and guidance throughout the internship.
