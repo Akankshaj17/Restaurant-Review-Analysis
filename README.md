@@ -2,7 +2,7 @@
 
 ---
 
-I’m excited to share my complete Zomato Data Analysis project, completed as part of my Data Analyst Internship at Cognifyz Technologies. This project was conducted in two phases—Level 1 (Data Preparation & Basic Analysis) and Level 2 (Deep-Dive Analysis & Visualization)—to apply real-world skills in data cleaning, analysis, and insight generation.
+I’m excited to share my complete Restaurant Review Analysis project, completed as part of my Data Analyst Internship at Cognifyz Technologies. This project was conducted in two phases—Level 1 (Data Preparation & Basic Analysis) and Level 2 (Deep-Dive Analysis & Visualization)—to apply real-world skills in data cleaning, analysis, and insight generation.
 
 ---
 
