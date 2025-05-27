@@ -1,10 +1,8 @@
 # 🍽️ Restaurant-Review-Analysis
 
----
 
 I’m excited to share my complete Restaurant Review Analysis project, completed as part of my Data Analyst Internship at Cognifyz Technologies. This project was conducted in two phases—Level 1 (Data Preparation & Basic Analysis) and Level 2 (Deep-Dive Analysis & Visualization)—to apply real-world skills in data cleaning, analysis, and insight generation.
 
----
 
 ## 🛠️ Tools & Technologies Used
 • Excel – Data Cleaning & Preprocessing
@@ -12,8 +10,6 @@ I’m excited to share my complete Restaurant Review Analysis project, completed
 • Python (Pandas) – Data Analysis & Aggregations
 
 • Matplotlib – Data Visualization
-
----
 
 
 ## 📌 Project Overview
@@ -27,7 +23,6 @@ I’m excited to share my complete Restaurant Review Analysis project, completed
 
 • Structured the data for better readability and analysis in later stages.
 
----
 
 ## ◆ Level 2: In-Depth Analysis & Visualization
 
@@ -41,7 +36,6 @@ I’m excited to share my complete Restaurant Review Analysis project, completed
 
 • Created custom plots using Matplotlib for storytelling with data.
 
----
 
 ### 📊 Key Insights Derived
 
@@ -53,7 +47,6 @@ I’m excited to share my complete Restaurant Review Analysis project, completed
 
 • Price vs. rating patterns and delivery behavior trends.
 
----
 
 ### 🎯 What I Learned
 
@@ -65,7 +58,6 @@ I’m excited to share my complete Restaurant Review Analysis project, completed
 
 • The importance of organizing data workflows for better collaboration and communication.
 
----
 
 ### 🙏 Acknowledgement
 
